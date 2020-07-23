@@ -1,0 +1,6 @@
+Si el cuerpo de respuesta es un iterable, entonces necesita analizar y caminar en consecuencia, si estoy entendiendo su pregunta correctamente.
+
+
+Solo otro ejemplo en JSON Parsing para mayor aclaración.
+
+Digamos que queremos analizar la matriz de elementos en nuestro objeto JSON.
